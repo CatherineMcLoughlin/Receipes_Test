@@ -3,3 +3,4 @@ Sugar
 eggs
 butter
 flour
+1 pinch salt
